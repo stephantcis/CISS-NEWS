@@ -1,20 +1,20 @@
 body {
-    background-color: rgb(72, 72, 72);
-    color: whitesmoke;
+    background-color: white;
+    color: black;
     text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 p {
     margin: auto;
     font-size: larger;
-    color: whitesmoke;
+    color: black;
     text-align: center;
     width: 700px;
 }
 
 footer {
-    background-color: rgb(50, 50, 50);
-    color: whitesmoke;
+    background-color: #333333;
+    color: white;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -22,8 +22,7 @@ footer {
     height: 60px;   /* Height of the footer */
 }
 header {
-    background-color: lightslategrey;
-    border: 1px solid black;
+    background-color: #333333;
     color: whitesmoke;
     text-align: center;
     position: fixed;
@@ -33,17 +32,17 @@ header {
 }
 
 a {
-	color: whitesmoke;
+	color: black;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #333333;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -51,12 +50,12 @@ a {
 }
 
 .topnav a:hover {
-  background-color: #707070;
+  background-color: #242424;
   color: white;
 }
 
 .topnav a.active {
-  background-color: #1f1f1f;
+  background-color: #222222;
   color: white;
 }
 
@@ -71,4 +70,12 @@ p.menutext {
 
 .inline {
 	display: inline
+}
+
+.times_live {
+  background-color: #666666;
+  color: white;
+  height: 50px;
+  font-size: xx-large;
+  font-weight: bold;
 }
