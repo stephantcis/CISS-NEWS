@@ -6,7 +6,7 @@
 </head>
 <body>
    
-<?php include 'https://www.cissdesign.no/header.php'; ?>
+<?php include 'header.php'; ?>
 
     <div class="times_live">
         <p style="color: white;">CIS TIMES</p>
