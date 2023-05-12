@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html><head>
     <title>CIS Times</title>
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
-   
 </head>
 <body>
    
+<?php include 'https://www.cissdesign.no/header.php'; ?>
 
     <div class="times_live">
         <p style="color: white;">CIS TIMES</p>
