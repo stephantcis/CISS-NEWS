@@ -10,6 +10,7 @@
 <?php include 'header.php'; ?>
 <br><br><br><br><br><br>
     </div>
+    <a href="https://www.cissdesign.no/cistimes/" style="margin-top: 10px; float: left; font-size: xx-large; color: black;" class="previous ">« Previous</a>
 
     <h1>17th of May Speech</h1>
     <p>Written by Stephan Teig, Anna Filippa, & Anne Kari Rønsen</p>

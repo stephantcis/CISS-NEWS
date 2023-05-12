@@ -86,3 +86,7 @@ button.open {
   font-size: xx-large;
   font-weight: bold;
 }
+
+.previous {
+  background-color: rgb(196, 196, 196);
+}
