@@ -7,10 +7,8 @@
    
 </head>
 <body>
-  <div class="topnav">
-      <a href="https://cissdesign.no/">Home</a>
-      <a href="index.html">School News</a>
-
+<?php include 'header.php'; ?>
+<br><br><br><br><br><br>
     </div>
 
     <h1>17th of May Speech</h1>

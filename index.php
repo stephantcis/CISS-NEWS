@@ -18,7 +18,7 @@
 <div style="height: 450px">		
     <img src="img/17may-speech.jpeg" width="600px" style="float: left;" alt="17th may speech"> <br> <br>
     <p>This is the 17th of may speech that was spooken on 17th of may in the school.</p> 
-    <button class="open" style="float: left; width: 600px; height: 175px; margin-top: 81px;" type="button" onclick=" window.open('17may-speech.html')">Open the page</button>
+    <button class="open" style="float: left; width: 600px; height: 175px; margin-top: 81px;" type="button" onclick=" window.open('17may-speech.php')">Open the page</button>
     
 </div>	
 
