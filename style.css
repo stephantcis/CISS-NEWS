@@ -79,3 +79,10 @@ p.menutext {
   font-size: xx-large;
   font-weight: bold;
 }
+
+button.open {
+  background-color: #222222;
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+}
