@@ -16,7 +16,6 @@
     <p>Written by Stephan Teig, Anna Filippa, & Anne Kari Rønsen</p>
     <p>Presented by Stephan Teig, Anna Filippa, & Emmanuel</p>
 
-    <!--
 
     <h2>Here you can watch the speech</h2>
     <iframe id="ytplayer" type="text/html" width="800" height="450" allow="fullscreen;" src="https://www.youtube.com/embed/s61hsjJ_7ww" frameborder="0"></iframe>
@@ -38,7 +37,6 @@
         Happy National Day, everyone! Let's continue to celebrate diversity and create a world where everyone can feel welcome and valued. On behalf of the student council, we wish you a wonderful day. Thank you.
         </p> 
 
-        -->
 
 </body>
 </html>

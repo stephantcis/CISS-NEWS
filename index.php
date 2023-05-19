@@ -22,12 +22,19 @@
     
 </div>	
 
+  <h2>Newsletter</h2>
+<div style="height: 450px">		
+    <button class="open" style="width: 600px; height: 175px; margin-top: 81px;" type="button" onclick=" window.open('newsletter.php')">Sign up to our newsletter</button>
+    
+</div>	
 	
 
   
 
   <footer>
-    <a href="https://cissdesign.no/cistimes" target="_blank" style="color: whitesmoke;">CISSDESIGN.NO/CISTIMES</a>
+    <a href="https://cissdesign.no/cistimes" style="color: whitesmoke;">CISSDESIGN.NO/CISTIMES</a>
+    <br>
+    <a href="https://cissdesign.no/cistimes/newsletter.php" style="color: whitesmoke;">Sign up to our newsletter</a>
     <br>
     <p style="font-size: medium; color: white;">© 2023 Stephan Teig</p>
   </footer>
