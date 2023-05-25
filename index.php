@@ -16,7 +16,25 @@
         <p style="color: white;">CIS TIMES</p>
     </div>
 
-  
+    <header>
+            <div class="profile-img">
+				<img src="img/icon.png" alt="#">
+  <div class="dropdown-content">
+    <a href="index.php">Home</a>
+    <a href="#news">News</a>
+  </div>
+<!-- This is my Navigation List for my dropdown menu. It contains links to different html files and is triggered by hover the cursor over it. It uses and image as a visual icon.-->
+			</div>
+            <nav>
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="#news">News</a></li>
+                </ul>
+            </nav>
+			<!-- This is my Navigation List for my Navigation Bar.-->
+        </header>
+
+
 
     <h2>Recent News</h2>
 <div style="height: 450px">		
@@ -26,13 +44,16 @@
     
 </div>	
 
+
+
+<section id="news">
   <h2>Newsletter</h2>
 <div style="height: 450px">		
     <button class="open" style="width: 600px; height: 175px; margin-top: 81px;" type="button" onclick=" window.open('newsletter.php')">Sign up to our newsletter</button>
     
 </div>	
 	
-
+</section>
   
 
   <footer>
